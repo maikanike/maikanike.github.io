@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://maikanike.github.io/"/>
-  <updated>2019-03-30T01:43:35.248Z</updated>
+  <updated>2019-03-30T02:15:13.441Z</updated>
   <id>https://maikanike.github.io/</id>
   
   <author>
@@ -15,6 +15,22 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>fuck</title>
+    <link href="https://maikanike.github.io/2019/03/30/fuck/"/>
+    <id>https://maikanike.github.io/2019/03/30/fuck/</id>
+    <published>2019-03-30T02:15:13.000Z</published>
+    <updated>2019-03-30T02:15:13.441Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+      <category term="tags" scheme="https://maikanike.github.io/tags/tags/"/>
+    
+  </entry>
   
   <entry>
     <title>postwithcomment</title>
