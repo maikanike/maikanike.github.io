@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://maikanike.github.io/"/>
-  <updated>2019-03-31T12:30:41.514Z</updated>
+  <updated>2019-03-31T12:31:49.775Z</updated>
   <id>https://maikanike.github.io/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="https://maikanike.github.io/2019/03/31/%E5%AE%9E%E7%94%A8markdown/"/>
     <id>https://maikanike.github.io/2019/03/31/实用markdown/</id>
     <published>2019-03-31T12:21:46.000Z</published>
-    <updated>2019-03-31T12:30:41.514Z</updated>
+    <updated>2019-03-31T12:31:49.775Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="标记与文本间要留空，如："><a href="#标记与文本间要留空，如：" class="headerlink" title="标记与文本间要留空，如："></a>标记与文本间要留空，如：</h1><blockquote><p># 这是一级标题</p></blockquote><h1 id="特殊字符要用实体的形式，如："><a href="#特殊字符要用实体的形式，如：" class="headerlink" title="特殊字符要用实体的形式，如："></a>特殊字符要用实体的形式，如：</h1><blockquote><p>&lt;: \&lt;<br>&amp;: \&amp;</p></blockquote>]]></content>
+    <content type="html"><![CDATA[<h1 id="标记与文本间要留空，如："><a href="#标记与文本间要留空，如：" class="headerlink" title="标记与文本间要留空，如："></a>标记与文本间要留空，如：</h1><blockquote><p># 这是一级标题</p></blockquote><h1 id="特殊字符要用实体的形式，如："><a href="#特殊字符要用实体的形式，如：" class="headerlink" title="特殊字符要用实体的形式，如："></a>特殊字符要用实体的形式，如：</h1><blockquote><p>&lt;: &amp;\lt;<br>&amp;: &amp;\amp;</p></blockquote>]]></content>
     
     <summary type="html">
     
