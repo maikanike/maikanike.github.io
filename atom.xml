@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://maikanike.github.io/"/>
-  <updated>2019-03-29T13:02:24.528Z</updated>
+  <updated>2019-03-31T09:58:58.229Z</updated>
   <id>https://maikanike.github.io/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>writewithmd</title>
+    <link href="https://maikanike.github.io/2019/03/31/writewithmd/"/>
+    <id>https://maikanike.github.io/2019/03/31/writewithmd/</id>
+    <published>2019-03-31T09:26:32.000Z</published>
+    <updated>2019-03-31T09:58:58.229Z</updated>
+    
+    <content type="html"><![CDATA[<p>#h1</p><p>##h2</p><p>###h3</p><p>####h4</p><p>#####h5</p><p>######h6</p><h1 id="这是一级标题"><a href="#这是一级标题" class="headerlink" title="这是一级标题"></a>这是一级标题</h1><h2 id="这是二级标题"><a href="#这是二级标题" class="headerlink" title="这是二级标题"></a>这是二级标题</h2><blockquote><p>这段文字将被高亮显示…<br><a href="muarua.com">muarua</a><br><img src="./images/123.jpg&quot;haha&quot;" alt="图片"><br><em>黄瓜</em>玉米<br><em>茄子</em>黄瓜<br><em>玉米</em>茄子</p></blockquote><p>-黄瓜<br>-玉米<br>-茄子</p><p>*段落<br>    &gt;区块标记一</p><hr><hr><p><em>这里是斜体</em><br><strong>这里是加粗</strong></p><p><code>let x = 3</code></p><p><code>(x, y) =&gt; alert(&#39;haha&#39;)</code></p><p>表头|条目一|条目二<br>项目|项目一|项目二</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;#h1&lt;/p&gt;
+&lt;p&gt;##h2&lt;/p&gt;
+&lt;p&gt;###h3&lt;/p&gt;
+&lt;p&gt;####h4&lt;/p&gt;
+&lt;p&gt;#####h5&lt;/p&gt;
+&lt;p&gt;######h6&lt;/p&gt;
+&lt;h1 id=&quot;这是一级标题&quot;&gt;&lt;a href=&quot;#这是一级标题&quot; class=&quot;headerlink&quot; title=
+      
+    
+    </summary>
+    
+    
+      <category term="tags" scheme="https://maikanike.github.io/tags/tags/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
