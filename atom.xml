@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://maikanike.github.io/"/>
-  <updated>2019-03-31T11:12:41.351Z</updated>
+  <updated>2019-03-31T11:30:51.084Z</updated>
   <id>https://maikanike.github.io/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="https://maikanike.github.io/2019/03/31/writewithmd/"/>
     <id>https://maikanike.github.io/2019/03/31/writewithmd/</id>
     <published>2019-03-31T09:26:32.000Z</published>
-    <updated>2019-03-31T11:12:41.351Z</updated>
+    <updated>2019-03-31T11:30:51.084Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="h1"><a href="#h1" class="headerlink" title="h1"></a>h1</h1><h2 id="h2"><a href="#h2" class="headerlink" title="h2"></a>h2</h2><p>###h3</p><h6 id="h6"><a href="#h6" class="headerlink" title="h6"></a>h6</h6><p>######h6</p><h1 id="这是一级标题"><a href="#这是一级标题" class="headerlink" title="这是一级标题"></a>这是一级标题</h1><h2 id="这是二级标题"><a href="#这是二级标题" class="headerlink" title="这是二级标题"></a>这是二级标题</h2><blockquote><p>这段文字将被高亮显示…<br>这段文字将被高亮显示…</p></blockquote><blockquote><blockquote><p>这段文字将被高亮显示…</p></blockquote></blockquote><p><a href="muarua.com" title="muaruaffffff">muarua</a></p><p><img src="https://maikanike.github.io/images/123.jpg" alt="图片"></p><ul><li>黄瓜<br>feawfeaw</li><li>玉米<blockquote><p>feawefwa</p></blockquote></li><li>茄子</li></ul><ol><li>黄瓜</li><li>玉米</li><li>茄子</li></ol><p>feawfwaf<br>  feawfewafewa<br>    fewafewaefaw</p><p>段落</p><blockquote><p>区块标记一</p><p>fewaefawegwae</p></blockquote><hr><hr><p><em>这里是斜体</em><br><strong>这里是加粗</strong></p><p><code>let x = 3</code></p><p><code>(x, y) =&gt; alert(&#39;haha&#39;)</code></p><table><thead><tr><th style="text-align:center">表头</th><th style="text-align:center">条目一</th><th style="text-align:center">条目二</th></tr></thead><tbody><tr><td style="text-align:center">项目</td><td style="text-align:center">项目一</td><td style="text-align:center">项目二</td></tr></tbody></table>]]></content>
+    <content type="html"><![CDATA[<h1 id="h1"><a href="#h1" class="headerlink" title="h1"></a>h1</h1><h2 id="h2"><a href="#h2" class="headerlink" title="h2"></a>h2</h2><p>###h3</p><h6 id="h6"><a href="#h6" class="headerlink" title="h6"></a>h6</h6><p>######h6</p><h1 id="这是一级标题"><a href="#这是一级标题" class="headerlink" title="这是一级标题"></a>这是一级标题</h1><h2 id="这是二级标题"><a href="#这是二级标题" class="headerlink" title="这是二级标题"></a>这是二级标题</h2><blockquote><p>这段文字将被高亮显示…<br>这段文字将被高亮显示…</p></blockquote><blockquote><blockquote><p>这段文字将被高亮显示…</p></blockquote></blockquote><p><a href="muarua.com" title="muaruaffffff">muarua</a></p><p><img src="https://maikanike.github.io/images/123.jpg" alt="图片"></p><ul><li>黄瓜<br>feawfeaw<br>  feawfewafwa</li><li>玉米<blockquote><p>feawefwa</p></blockquote></li><li>茄子</li></ul><ol><li>黄瓜</li><li>玉米</li><li>茄子</li></ol><p>feawfwaf</p><p>  feawfewafewa</p><pre><code>fewafewaefaw</code></pre><p>段落</p><blockquote><p>区块标记一</p><p>fewaefawegwae</p></blockquote><hr><hr><p><em>这里是斜体</em><br><strong>这里是加粗</strong></p><p><code>let x = 3</code></p><p><code>(x, y) =&gt; alert(&#39;haha&#39;)</code></p><table><thead><tr><th style="text-align:center">表头</th><th style="text-align:center">条目一</th><th style="text-align:center">条目二</th></tr></thead><tbody><tr><td style="text-align:center">项目</td><td style="text-align:center">项目一</td><td style="text-align:center">项目二</td></tr></tbody></table>]]></content>
     
     <summary type="html">
     
